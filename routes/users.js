@@ -7,7 +7,7 @@ let userArr = [
 ];
 
 router.get('/',(req, res)=>{
-    res.send('Hello world');
+    res.send('Hello Kush');
 });
 
 router.get('/:id',(req, res)=>{
